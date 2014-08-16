@@ -3,6 +3,9 @@ PossibleEmail
 A Ruby Gem to find someone's possible email address using their first name, last name, and domain.
 
 [![Gem Version](https://badge.fury.io/rb/possible_email.svg)](http://badge.fury.io/rb/possible_email)
+[![Build Status](https://travis-ci.org/the4dpatrick/possible-email.svg?branch=master)](https://travis-ci.org/the4dpatrick/possible-email)
+[![Coverage Status](https://coveralls.io/repos/the4dpatrick/possible-email/badge.png?branch=master)](https://coveralls.io/r/the4dpatrick/possible-email?branch=master)
+[![Code Climate](https://codeclimate.com/github/the4dpatrick/possible-email/badges/gpa.svg)](https://codeclimate.com/github/the4dpatrick/possible-email)
 
 More information in my [blog post](http://patrickperey.com/possible-email "blog post") at [PatrickPerey.com](http://patrickperey.com "Patrick Perey Blog")
 
