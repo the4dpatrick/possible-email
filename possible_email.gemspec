@@ -20,6 +20,7 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency 'httpi', '~> 2.2', '>= 2.2.5'
   spec.add_dependency 'thor', '~> 0.19', '>= 0.19.1'
+  spec.add_dependency 'rubyntlm', '~> 0.3.4'
 
   spec.add_development_dependency 'bundler', "~> 1.5"
   spec.add_development_dependency 'rake'
@@ -30,4 +31,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'rb-fsevent'
   spec.add_development_dependency 'growl'
   spec.add_development_dependency 'coveralls'
+
 end
