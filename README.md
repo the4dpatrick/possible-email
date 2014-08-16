@@ -2,6 +2,8 @@ PossibleEmail
 =========
 A Ruby Gem to find someone's possible email address using their first name, last name, and domain.
 
+[![Gem Version](https://badge.fury.io/rb/possible_email.svg)](http://badge.fury.io/rb/possible_email)
+
 More information in my [blog post](http://patrickperey.com/possible-email "blog post") at [PatrickPerey.com](http://patrickperey.com "Patrick Perey Blog")
 
 Installation
