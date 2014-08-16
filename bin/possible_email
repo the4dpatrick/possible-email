@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require 'possible_email'
+require 'possible_email/cli'
+
+PossibleEmail::CLI.start(ARGV)
