@@ -148,6 +148,7 @@ Notes
 * With great power, comes great responsibly
 * Wrapper around the undocumented Rapportive API.
 * Valid results may be hidden due to API's limitations
+* Overuse may result in API throttling
 * Send Bitcoin `18fZ6muNmBrtENMZhnAjUw8eEsytmY8mZJ`
 
 

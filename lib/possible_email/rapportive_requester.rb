@@ -43,7 +43,7 @@ module PossibleEmail
     end
 
     def useful_response?(response)
-      response['success'] != 'nothing_useful'
+      response['contact'] && response['success'] != 'nothing_useful' && response['status'] != 403
     end
   end
 end
