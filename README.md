@@ -32,7 +32,7 @@ $ possible_email search first_name last_name domain
 Not sure about the domain name? Just add multiple domains at the end
 
 ```
-$ possible_email search first_name last_name gmail.com, yahoo.com, live.com
+$ possible_email search first_name last_name gmail.com yahoo.com live.com
 ```
 
 
