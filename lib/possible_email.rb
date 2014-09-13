@@ -9,7 +9,7 @@ require 'json'
 HTTPI.log = false
 
 EMAIL_REGEX = /^([\w\.%\+\-]+)@([\w\-]+\.)+([\w]{2,})$/i
-DOMAIN_REGEX = /^[^@]([\w\-]+\.)+([\w]{2,})$/
+DOMAIN_REGEX = /^([\w\-]+\.)+([\w]{2,})$/
 NAME_REGEX = /^\b[a-zA-Z]+\b$/
 
 module PossibleEmail
