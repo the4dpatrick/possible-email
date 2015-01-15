@@ -2,7 +2,7 @@ PossibleEmail
 =========
 A Ruby Gem to find someone's possible email address using their first name, last name, and domain.
 
-** NOTE: Rapportive recently changed their API which has broken the functionality of this gem. If you already know where the bug is or have time to fix it, send a pull request. **
+**NOTE: Rapportive recently changed their API which has broken the functionality of this gem. If you already know where the bug is or have time to fix it, send a pull request.**
 
 [![Gem Version](https://badge.fury.io/rb/possible_email.svg)](http://badge.fury.io/rb/possible_email)
 [![Build Status](https://travis-ci.org/the4dpatrick/possible-email.svg?branch=master)](https://travis-ci.org/the4dpatrick/possible-email)
